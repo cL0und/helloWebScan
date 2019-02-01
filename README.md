@@ -4,10 +4,7 @@
 Web scanner based on Python 3.6 aiohttp
 
 ## Install
-pip3 install aiohttp
-pip3 install cchardet
-pip3 install bs4
-pip3 install lxml
+pip3 install aiohttp cchardet bs4 lxml
 
 ## Use
 Now helloWebScan supports scanning in CIDR format and scanning in underlying masscan JSON result format.
